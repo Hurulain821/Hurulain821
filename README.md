@@ -5,6 +5,5 @@
 - 📫 How to reach me through Email and DM.
 
 <!---
-Hurulain821/Hurulain821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hurulain821/Hurulain821 is a ✨ special ✨ repository because she has a lot of skills in the field of Computer Science.
 --->
